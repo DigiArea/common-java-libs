@@ -1,3 +1,6 @@
+/*
+ * 
+ */
 package com.digiarea.common;
 
 public interface Arrow<I, O> {

@@ -1,3 +1,6 @@
+/*
+ * 
+ */
 package com.digiarea.common.utils;
 
 public enum FileExtensions {
