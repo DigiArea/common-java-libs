@@ -1,4 +1,4 @@
-package com.digiarea.common;
+package com.digiarea.common.utils;
 
 public enum FileExtensions {
 

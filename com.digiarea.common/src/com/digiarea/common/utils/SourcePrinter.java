@@ -3,7 +3,7 @@
  * 
  * @author norb <norb.beaver@digi-area.com>
  */
-package com.digiarea.common;
+package com.digiarea.common.utils;
 
 import java.io.IOException;
 import java.io.OutputStream;
