@@ -1,4 +1,4 @@
-![Volto](https://lh6.googleusercontent.com/-0LT80XeWick/Ut-eMCSF8sI/AAAAAAAABnk/ckJtnQKNvgI/w718-h295-no/volto.jpg)
+![Bauta](https://lh3.googleusercontent.com/-tQ9HsHXE7Zc/Ut-cvL0K3FI/AAAAAAAABmo/2ltSbdPUGLw/w718-h303-no/bauta.jpg)
 
 common-java-libs
 ================
