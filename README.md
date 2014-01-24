@@ -4,3 +4,9 @@ common-java-libs
 ================
 
 Common Java libraries
+
+###License
+
+This software is licensed under the Apache V2 License. See the LICENSE file for details.
+
+Except as otherwise noted, the media content (text, images, icons etc.) of the Software is licensed under the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
