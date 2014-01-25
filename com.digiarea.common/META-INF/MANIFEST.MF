@@ -6,4 +6,5 @@ Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: DIGIAREA
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Export-Package: com.digiarea.common,
+ com.digiarea.common.annotator,
  com.digiarea.common.utils
