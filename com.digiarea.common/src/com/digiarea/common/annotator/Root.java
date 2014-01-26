@@ -23,10 +23,17 @@ import java.lang.annotation.Target;
 public @interface Root {
 
 	/**
-	 * Mapping value = package name of real annotations.
+	 * Mapping to package name of real annotations.
 	 *
 	 * @return the string
 	 */
-	String value() default "";
+	String map() default "";
+	
+	/**
+	 * Package name for the model types of these annotations.
+	 *
+	 * @return the string
+	 */
+	String pkg() default "";
 
 }
