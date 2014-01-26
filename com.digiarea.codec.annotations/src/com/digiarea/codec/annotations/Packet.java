@@ -25,7 +25,7 @@ import com.digiarea.common.annotator.Children;
  * @author Norb Beaver
  */
 @Target({ ElementType.TYPE })
-@Retention(RetentionPolicy.RUNTIME)
+@Retention(RetentionPolicy.SOURCE)
 @Children({ @Child(clazz = Packet.class, isUnique = false),
 		@Child(clazz = Sector.class, isUnique = false),
 		@Child(clazz = Factory.class, isUnique = true) })

@@ -20,7 +20,7 @@ import com.digiarea.common.annotator.Super;
  * The Interface Item.
  */
 @Target({})
-@Retention(RetentionPolicy.RUNTIME)
+@Retention(RetentionPolicy.SOURCE)
 @Super
 public @interface Item {
 

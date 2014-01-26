@@ -23,7 +23,7 @@ import java.lang.annotation.Target;
  * @author Norb Beaver
  */
 @Target({ ElementType.FIELD, ElementType.METHOD, ElementType.PARAMETER })
-@Retention(RetentionPolicy.RUNTIME)
+@Retention(RetentionPolicy.SOURCE)
 public @interface Sector {
 
 	/**

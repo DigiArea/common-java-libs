@@ -19,7 +19,7 @@ import java.lang.annotation.Target;
  * The Interface Child.
  */
 @Target({})
-@Retention(RetentionPolicy.RUNTIME)
+@Retention(RetentionPolicy.SOURCE)
 public @interface Child {
 
 	/**

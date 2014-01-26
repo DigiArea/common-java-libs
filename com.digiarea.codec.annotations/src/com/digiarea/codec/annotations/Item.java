@@ -22,7 +22,7 @@ import com.digiarea.common.annotator.Super;
  * @author Norb Beaver
  */
 @Target({})
-@Retention(RetentionPolicy.RUNTIME)
+@Retention(RetentionPolicy.SOURCE)
 @Super
 public @interface Item {
 

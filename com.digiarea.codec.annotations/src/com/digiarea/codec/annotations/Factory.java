@@ -25,7 +25,7 @@ import com.digiarea.common.annotator.Children;
  * @author norb
  */
 @Target({ ElementType.METHOD, ElementType.CONSTRUCTOR })
-@Retention(RetentionPolicy.RUNTIME)
+@Retention(RetentionPolicy.SOURCE)
 @Children({ @Child(clazz = Sector.class, isUnique = false) })
 public @interface Factory {
 

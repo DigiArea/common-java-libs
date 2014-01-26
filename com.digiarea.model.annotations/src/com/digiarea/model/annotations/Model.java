@@ -22,7 +22,7 @@ import com.digiarea.common.annotator.Root;
  * The Interface Model.
  */
 @Target({})
-@Retention(RetentionPolicy.RUNTIME)
+@Retention(RetentionPolicy.SOURCE)
 @Children({ @Child(clazz = Bean.class, isUnique = false) })
 @Root
 public @interface Model {

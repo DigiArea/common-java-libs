@@ -22,7 +22,7 @@ import com.digiarea.common.annotator.Root;
  * The Interface Codec.
  */
 @Target({})
-@Retention(RetentionPolicy.RUNTIME)
+@Retention(RetentionPolicy.SOURCE)
 @Children({ @Child(clazz = Packet.class, isUnique = false) })
 @Root
 public @interface Codec {
