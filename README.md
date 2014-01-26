@@ -1,4 +1,4 @@
-![Bauta](https://lh3.googleusercontent.com/-tQ9HsHXE7Zc/Ut-cvL0K3FI/AAAAAAAABmo/2ltSbdPUGLw/w718-h303-no/bauta.jpg)
+![Bauta](https://lh3.googleusercontent.com/-6v32sTQh4fc/UuTEaJcBI9I/AAAAAAAAAEE/ru60I_83pGc/w718-h303-no/bauta.jpg)
 
 common-java-libs
 ================
