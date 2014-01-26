@@ -18,7 +18,7 @@ import java.lang.annotation.Target;
 /**
  * Field annotation for model equipment.
  * 
- * @author Norb Beaver <norb.beaver@digi-area.com>
+ * @author Norb Beaver
  * 
  */
 @Target({ ElementType.FIELD })

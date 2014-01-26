@@ -21,7 +21,7 @@ import com.digiarea.common.annotator.Children;
 /**
  * Bean annotation for model equipment.
  * 
- * @author Norb Beaver <norb.beaver@digi-area.com>
+ * @author Norb Beaver
  * @since 1.3.0
  * 
  */
@@ -39,7 +39,7 @@ public @interface Bean {
 	 * <li>third - the defaults: PUBLIC</li>
 	 * </ul>
 	 * 
-	 * @author Norb Beaver <norb.beaver@digi-area.com>
+	 * @author Norb Beaver
 	 * 
 	 */
 	public enum Visibility {
