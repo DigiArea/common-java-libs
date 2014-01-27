@@ -1,4 +1,4 @@
-![Bauta](https://lh3.googleusercontent.com/-6v32sTQh4fc/UuTEaJcBI9I/AAAAAAAAAEE/ru60I_83pGc/w718-h303-no/bauta.jpg)
+![VoltaMan](https://lh4.googleusercontent.com/-K-5zs1cS9yo/UuYYi647voI/AAAAAAAAAFs/R_wx_QMx6kk/w718-h303-no/volto.png)
 
 common-java-libs
 ================
